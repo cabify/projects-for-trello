@@ -3,6 +3,8 @@ Projects for Trello
 [Projects for Trello](https://chrome.google.com/webstore/detail/projects-for-trello/mholjhodapabhdbchonjjoecmfhobfoa) 
 adds functionality to the awesome trello.com for use in multiple project boards.
 
+Our Cabify branch has been updated to support projects defined with [ as well as {.
+
 Setup
 -----
 Projects for Trello is a Chrome extension and you can install it via the Chrome Webstore or clone this 
